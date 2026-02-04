@@ -1,4 +1,8 @@
 👋 Hi, I’m **Jyothikoti**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jyothikoti&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ---
 
 💻 **Full Stack Developer | Angular • FlutterFlow • Power Apps**
@@ -64,13 +68,6 @@ I work on **UI-rich dashboards**, **workflow-based systems**, and **API-integrat
 AI & Automation • UI/UX Design • Low-Code Platforms • Gaming • Anime
 
 ---
-
-<p align="center">
-  <a href="https://github.com/jyothikoti?tab=followers">
-    <img src="https://img.shields.io/github/followers/jyothikoti?label=Followers&style=flat&color=0e75b6" />
-  </a>
-</p>
-
 
 ## 📫 Connect With Me
 - GitHub: **@cherukurijyothi**

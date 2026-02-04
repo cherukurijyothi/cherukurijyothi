@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Full Stack Developer with hands-on experience building **web and low-code applications** using **Angular**, **FlutterFlow**, and **Power Apps**.  
 I work on **UI-rich dashboards**, **workflow-driven systems**, and **API-integrated applications**, focusing on clean design, performance, and scalability.
@@ -23,19 +23,19 @@ I enjoy understanding how applications work **end-to-end** — from frontend scr
 
 ## 🛠️ Technical Exposure
 
-### 💻 Frontend
+###  Frontend
 - **Angular (v16+)**
 - **FlutterFlow (Mobile & Web)**
 - **Power Apps**
 - Responsive UI & dashboard development
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 - **REST APIs**
 - API integration & testing
 - Authentication & authorization concepts
 - Idempotent API design
 
-### 🗄️ Data & Validation
+### Data & Validation
 - Schema & file validation (XML / XSD)
 - Metadata-driven validations
 - Transactions & approval workflows
@@ -48,7 +48,7 @@ I enjoy understanding how applications work **end-to-end** — from frontend scr
 
 ---
 
-## 📌 What I’ve Worked On
+## What I’ve Worked On
 - Approval dashboards & role-based workflows  
 - File upload, validation & transaction tracking  
 - Full-stack screens connected to backend APIs  
@@ -56,14 +56,14 @@ I enjoy understanding how applications work **end-to-end** — from frontend scr
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - System design fundamentals  
 - Scalable application architecture  
 - Advanced API security patterns  
 
 ---
 
-## 🎯 Interests
+##  Interests
 - Building intuitive user interfaces  
 - Learning new frameworks & tools  
 - Exploring automation and low-code platforms  

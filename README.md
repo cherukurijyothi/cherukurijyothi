@@ -8,11 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jyothikoti&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+   <img src="https://img.shields.io/github/followers/jyothikoti?label=Followers&style=flat&color=0e75b6" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/jyothikoti?label=Followers&style=flat&color=0e75b6" />
-</p>
-<img src="https://img.shields.io/github/followers/jyothikoti?label=Follow%20Me&style=flat&color=ff69b4" />
+
 
 ---
 
